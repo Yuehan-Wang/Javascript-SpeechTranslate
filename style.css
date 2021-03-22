@@ -1,0 +1,23 @@
+body{
+    background-color: eggshell;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+}
+
+#talk{
+    border-radius: 25%;
+    margin-top: 30%;
+    background-color: maroon;
+    color: white;
+}
+#script,#translation{
+    outline-color: maroon;
+    outline-width: 5px;
+    background-color: white;
+    color: maroon;
+    margin-left: 20%;
+    margin-right: 20%;
+}
